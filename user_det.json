@@ -1,0 +1,49 @@
+{
+    "horizon_bnk": [
+        {
+            "password": "horizon_zero_dawn",
+            "phone": "9531670207",
+            "email": "uddalakmukhopadhyay@yahoo.com"
+        }
+    ],
+    "100011": [
+        {
+            "name": "Uddalak Mukhopadhyay",
+            "user_id": "uddalak001",
+            "password": "uddalak2005",
+            "phone": "9531670207",
+            "email": "mukhopadhyayuddalak2005@gmail.com",
+            "amount": 8800
+        }
+    ],
+    "693103": [
+        {
+            "name": "Susmita",
+            "user_id": "susmita2",
+            "password": "susmita2",
+            "phone": "8250683396",
+            "email": "mukhopadhyayuddalak2005@gmail.com",
+            "amount": 13000
+        }
+    ],
+    "974291": [
+        {
+            "name": "Koushik Mukhopadhyay",
+            "user_id": "pokol2005",
+            "password": "pokol2005",
+            "phone": "9531670207",
+            "email": "uddalakmukhopadhyay@yahoo.com",
+            "amount": 15000
+        }
+    ],
+    "201300": [
+        {
+            "name": "Souvik Das",
+            "user_id": "abcdefgh",
+            "password": "abcdefgh",
+            "phone": "8240617189",
+            "email": "mukhopadhyayuddalak2005@gmail.com",
+            "amount": 149980000
+        }
+    ]
+}
